@@ -1,1 +1,1 @@
-Write a script that lists all files including the hidden ones
+Display current directory contents
