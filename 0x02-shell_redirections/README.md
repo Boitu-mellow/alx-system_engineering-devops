@@ -1,1 +1,1 @@
-script that prints the confused emoji
+Display the content of the /etc/passwd file
